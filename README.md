@@ -1,0 +1,2 @@
+# UAS-FINALTERM-FOR-MACHINE-LEARNING
+Repo ini berisi file-file UAS (FINALTERM) FOR MACHINE LEARNING Telkom University
